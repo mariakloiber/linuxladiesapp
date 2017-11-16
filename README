@@ -1,0 +1,4 @@
+Read Me file for Linux Ladies Application in C++.
+Last updated on May 15th, 2017.
+
+Project can be built by downloading tarball, navigating to the folder that contains all of the relevant files, and entering 'make' into the command line. This should create an executable file which can then be run either by clicking on the .exe file or by entering ./menu-ui into the command line.
